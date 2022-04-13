@@ -1,5 +1,4 @@
 # Clone-Spotify
-<<<<<<< HEAD
 
 ## Recriando a página do Spotify
 
@@ -13,7 +12,7 @@
 
 - HTML
 - CSS
-=======
+
 ## Recriando a página do Spotify
 
 
@@ -27,4 +26,4 @@
 
 * HTML
 * CSS
->>>>>>> 3396b5e351c19de9c92f52c8b64c168e0d3cf181
+
