@@ -1,6 +1,6 @@
 <h1> Clone-Spotify </h1>
 
-<h2> Recriando a página do Spotify </h2>
+<h2> Recriando a página do Spotify - Página criada para o intuito de estudar as tecnologias aprendidas </h2>
 
 - <strong>Imagem do Projeto </strong>  - <a href="https://adrianoardev.github.io/Clone-Spotify/">Link do projeto</a>
 
